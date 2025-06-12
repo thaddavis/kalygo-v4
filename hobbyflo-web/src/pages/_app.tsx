@@ -54,13 +54,13 @@ const App = function ({ Component, pageProps }: CustomAppProps) {
         <meta property="og:title" content="Kalygo" />
         <meta
           property="og:description"
-          content="HobbyFlo is a peer-2-peer rental platform powered by hobbyists"
+          content="Kalygo is a peer-2-peer escrow platform powered by Smart Contracts & AI Agents"
         />
         <meta property="og:image" content="/kalygo_new_logo-512x512.png" />
         <link rel="apple-touch-icon" href="/kalygo_new_logo-192x192.png" />
         <meta
           name="description"
-          content="HobbyFlo is a peer-2-peer rental platform powered by hobbyists."
+          content="Kalygo is a peer-2-peer escrow platform powered by Smart Contracts & AI Agents"
         />
         <meta
           name="keywords"
