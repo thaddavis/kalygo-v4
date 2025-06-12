@@ -88,7 +88,7 @@ export function NavbarCenteredLogo(p: P) {
                 <div className="flex grow flex-col gap-y-5 overflow-y-auto bg-white px-6 pb-2">
                   <div className="flex h-16 shrink-0 items-center">
                     <Link href="/" className="-m-1.5 p-1.5">
-                      <span className="sr-only">HobbyFlo</span>
+                      <span className="sr-only">Kalygo</span>
                     </Link>
                   </div>
                   <nav className="flex flex-1 flex-col">
@@ -160,7 +160,7 @@ export function NavbarCenteredLogo(p: P) {
             <span className="sr-only">{t("common:company-name")}</span>
             <div className="flex items-center">
               <span className="text-sm font-semibold leading-6 text-gray-900">
-                HobbyFlo
+                Kalygo
               </span>
             </div>
           </Link>

@@ -91,9 +91,6 @@ export function Footer() {
             </a>
           ))}
         </div>
-        <p className="mt-10 text-center text-xs leading-5 text-gray-500">
-          &copy; {new Date().getFullYear()} HobbyFlo
-        </p>
       </div>
     </footer>
   );

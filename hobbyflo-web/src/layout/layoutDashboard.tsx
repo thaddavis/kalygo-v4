@@ -370,7 +370,7 @@ export default function LayoutDashboard({ children, account }: P) {
                 /> */}
                 &nbsp;
                 <span className="text-sm font-semibold leading-6 text-white">
-                  HobbyFlo
+                  Kalygo
                 </span>
               </div>
             </Link>

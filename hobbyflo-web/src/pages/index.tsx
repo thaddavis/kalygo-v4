@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>HobbyFlo</title>
+        <title>Kalygo</title>
         <meta content="Made with love by HobbyFlo" name="description" />
         <link href="/favicon.ico" rel="icon" />
       </Head>
@@ -18,12 +18,12 @@ const Home: NextPage = () => {
       <Layout1>
         <Hero />
         <Testimonials />
-        <Features />
+        {/* <Features /> */}
       </Layout1>
 
       <footer className={styles.footer}>
         <a href="https://rainbow.me" rel="noopener noreferrer" target="_blank">
-          Made with ❤️ by frens at ETHMiami © 2023
+          Made with ❤️ by frens in Miami © 2025
         </a>
       </footer>
     </div>
